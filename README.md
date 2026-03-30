@@ -6,11 +6,11 @@ A terminal-based computer vision interface that uses Gemini 3 Flash to analyze c
 [![Gemini](https://img.shields.io/badge/AI-Gemini_3_Flash-orange.svg)](https://ai.google.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC.svg)](https://tailwindcss.com/)
 
-## 🚀 Overview
+## Overview
 
 **VisionCLI** bridges the gap between traditional command-line workflows and modern multimodal AI. It provides a retro-hacker terminal interface where you can "talk" to your camera feed using technical commands. Whether you're scanning an environment, detecting specific objects, or extracting text from documents, VisionCLI handles it all through a unified terminal experience.
 
-## ✨ Key Features
+## Key Features
 
 - **Terminal-First UX**: A fully functional terminal emulator built with React.
 - **Real-time Vision**: Integrated camera system with HUD overlays.
@@ -24,7 +24,7 @@ A terminal-based computer vision interface that uses Gemini 3 Flash to analyze c
   - `report`: Access system architecture and project status.
 - **Retro Aesthetic**: Custom-built CRT scanline effects and high-contrast green-on-black styling.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React 19, Vite, TypeScript
 - **Styling**: Tailwind CSS 4.0
@@ -32,7 +32,7 @@ A terminal-based computer vision interface that uses Gemini 3 Flash to analyze c
 - **Icons**: Lucide React
 - **AI Engine**: `@google/genai` (Gemini 3 Flash)
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository**:
    ```bash
@@ -56,7 +56,7 @@ A terminal-based computer vision interface that uses Gemini 3 Flash to analyze c
    npm run dev
    ```
 
-## 📖 Usage Guide
+## Usage Guide
 
 Once the terminal initializes:
 1. Type `cam on` to start the visual feed.
@@ -65,9 +65,8 @@ Once the terminal initializes:
 4. Use `text` to read labels, signs, or documents.
 5. Type `help` at any time to see the full command list.
 
-## 📄 License
+## License
 
 This project is licensed under the Apache-2.0 License.
 
 ---
-*Built with ❤️ using Google AI Studio*
