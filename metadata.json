@@ -1,0 +1,7 @@
+{
+  "name": "VisionCLI",
+  "description": "A terminal-based computer vision interface that uses Gemini to analyze camera input via CLI commands.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
